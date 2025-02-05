@@ -1,4 +1,4 @@
-import client_2 from '@sanity/client';
+
 import { client } from '../../../sanity-migration/sanityClient';
 
 
