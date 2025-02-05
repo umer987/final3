@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "@sanity/client": "^6.27.2",
+    "axios": "^1.7.9",
+    "dotenv": "^16.4.7",
+    "dotnet": "^1.1.4",
+    "slugify": "^1.6.6",
+    "uuid": "^11.0.5"
+  },
+  "devDependencies": {
+    "@types/uuid": "^10.0.0"
+  }
+}
