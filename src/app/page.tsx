@@ -1,4 +1,4 @@
- import Image from "next/image";
+
  import {getAllProducts} from "@/sanity/lib/data";
 import iProduct from "@/sanity/lib/data";
 import  Header_1  from '@/components/header';
