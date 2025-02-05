@@ -5,7 +5,7 @@ import  Header_1  from '@/components/header';
 import Footer from '@/components/footer';
 import Hero from "@/components/Hero";
 import Joinclub from "@/components/joinclub";
-import Productcard1 from "@/components/productcard1";
+
  export default async function Home() {
            const products:iProduct[] = await getAllProducts();
          
