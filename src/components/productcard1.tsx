@@ -1,4 +1,4 @@
-import Image from "next/image";
+
  import {AllProducts} from "@/sanity/lib/allpro";
  import uProduct from "@/sanity/lib/allpro";
  export default async function Productcard1() {
